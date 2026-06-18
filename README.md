@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-de-olvido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Susurros de olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-olvido/) |
+| **Get License** | [License this song: Susurros de olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-olvido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see you shining from across the VIP tonight
+> Your body moving like a wave in the flashing light
+> I’m pulled right into your gravity, caught in your design
+> Just let me take the wheel and make you completely mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
